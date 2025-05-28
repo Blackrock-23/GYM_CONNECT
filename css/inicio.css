@@ -61,6 +61,12 @@ footer {
   gap: 1rem;
   padding: 2rem;
 }
+.card-img-top {
+  height: 200px;           
+  object-fit: cover;       
+  width: 100%;             
+}
+
 
 .card {
   width: 18rem;
@@ -77,3 +83,4 @@ footer {
     margin-top: 2rem;
   }
 }
+
